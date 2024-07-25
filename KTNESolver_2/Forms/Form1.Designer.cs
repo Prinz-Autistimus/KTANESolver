@@ -56,7 +56,7 @@
             button4 = new Button();
             button3 = new Button();
             button2 = new Button();
-            button1 = new Button();
+            btnWire = new Button();
             grbBombInfo = new GroupBox();
             ((System.ComponentModel.ISupportInitialize)nudBatteries).BeginInit();
             grbSerial.SuspendLayout();
@@ -225,6 +225,7 @@
             // 
             // tableLayoutPanel1
             // 
+            tableLayoutPanel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             tableLayoutPanel1.AutoSize = true;
             tableLayoutPanel1.ColumnCount = 4;
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
@@ -242,22 +243,22 @@
             tableLayoutPanel1.Controls.Add(button4, 3, 0);
             tableLayoutPanel1.Controls.Add(button3, 2, 0);
             tableLayoutPanel1.Controls.Add(button2, 1, 0);
-            tableLayoutPanel1.Controls.Add(button1, 0, 0);
-            tableLayoutPanel1.Location = new Point(40, 119);
+            tableLayoutPanel1.Controls.Add(btnWire, 0, 0);
+            tableLayoutPanel1.Location = new Point(12, 83);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 3;
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 33.3333321F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 33.3333321F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 33.3333321F));
-            tableLayoutPanel1.Size = new Size(732, 360);
+            tableLayoutPanel1.Size = new Size(715, 397);
             tableLayoutPanel1.TabIndex = 9;
             // 
             // button12
             // 
             button12.Dock = DockStyle.Fill;
-            button12.Location = new Point(552, 243);
+            button12.Location = new Point(537, 267);
             button12.Name = "button12";
-            button12.Size = new Size(177, 114);
+            button12.Size = new Size(175, 127);
             button12.TabIndex = 11;
             button12.Text = "button12";
             button12.UseVisualStyleBackColor = true;
@@ -265,9 +266,9 @@
             // button11
             // 
             button11.Dock = DockStyle.Fill;
-            button11.Location = new Point(369, 243);
+            button11.Location = new Point(359, 267);
             button11.Name = "button11";
-            button11.Size = new Size(177, 114);
+            button11.Size = new Size(172, 127);
             button11.TabIndex = 10;
             button11.Text = "button11";
             button11.UseVisualStyleBackColor = true;
@@ -275,9 +276,9 @@
             // button10
             // 
             button10.Dock = DockStyle.Fill;
-            button10.Location = new Point(186, 243);
+            button10.Location = new Point(181, 267);
             button10.Name = "button10";
-            button10.Size = new Size(177, 114);
+            button10.Size = new Size(172, 127);
             button10.TabIndex = 9;
             button10.Text = "button10";
             button10.UseVisualStyleBackColor = true;
@@ -285,9 +286,9 @@
             // button9
             // 
             button9.Dock = DockStyle.Fill;
-            button9.Location = new Point(3, 243);
+            button9.Location = new Point(3, 267);
             button9.Name = "button9";
-            button9.Size = new Size(177, 114);
+            button9.Size = new Size(172, 127);
             button9.TabIndex = 8;
             button9.Text = "button9";
             button9.UseVisualStyleBackColor = true;
@@ -295,9 +296,9 @@
             // button8
             // 
             button8.Dock = DockStyle.Fill;
-            button8.Location = new Point(552, 123);
+            button8.Location = new Point(537, 135);
             button8.Name = "button8";
-            button8.Size = new Size(177, 114);
+            button8.Size = new Size(175, 126);
             button8.TabIndex = 7;
             button8.Text = "button8";
             button8.UseVisualStyleBackColor = true;
@@ -305,9 +306,9 @@
             // button7
             // 
             button7.Dock = DockStyle.Fill;
-            button7.Location = new Point(369, 123);
+            button7.Location = new Point(359, 135);
             button7.Name = "button7";
-            button7.Size = new Size(177, 114);
+            button7.Size = new Size(172, 126);
             button7.TabIndex = 6;
             button7.Text = "button7";
             button7.UseVisualStyleBackColor = true;
@@ -315,9 +316,9 @@
             // button6
             // 
             button6.Dock = DockStyle.Fill;
-            button6.Location = new Point(186, 123);
+            button6.Location = new Point(181, 135);
             button6.Name = "button6";
-            button6.Size = new Size(177, 114);
+            button6.Size = new Size(172, 126);
             button6.TabIndex = 5;
             button6.Text = "button6";
             button6.UseVisualStyleBackColor = true;
@@ -325,9 +326,9 @@
             // button5
             // 
             button5.Dock = DockStyle.Fill;
-            button5.Location = new Point(3, 123);
+            button5.Location = new Point(3, 135);
             button5.Name = "button5";
-            button5.Size = new Size(177, 114);
+            button5.Size = new Size(172, 126);
             button5.TabIndex = 4;
             button5.Text = "button5";
             button5.UseVisualStyleBackColor = true;
@@ -335,9 +336,9 @@
             // button4
             // 
             button4.Dock = DockStyle.Fill;
-            button4.Location = new Point(552, 3);
+            button4.Location = new Point(537, 3);
             button4.Name = "button4";
-            button4.Size = new Size(177, 114);
+            button4.Size = new Size(175, 126);
             button4.TabIndex = 3;
             button4.Text = "button4";
             button4.UseVisualStyleBackColor = true;
@@ -345,9 +346,9 @@
             // button3
             // 
             button3.Dock = DockStyle.Fill;
-            button3.Location = new Point(369, 3);
+            button3.Location = new Point(359, 3);
             button3.Name = "button3";
-            button3.Size = new Size(177, 114);
+            button3.Size = new Size(172, 126);
             button3.TabIndex = 2;
             button3.Text = "button3";
             button3.UseVisualStyleBackColor = true;
@@ -355,25 +356,27 @@
             // button2
             // 
             button2.Dock = DockStyle.Fill;
-            button2.Location = new Point(186, 3);
+            button2.Location = new Point(181, 3);
             button2.Name = "button2";
-            button2.Size = new Size(177, 114);
+            button2.Size = new Size(172, 126);
             button2.TabIndex = 1;
             button2.Text = "button2";
             button2.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // btnWire
             // 
-            button1.Dock = DockStyle.Fill;
-            button1.Location = new Point(3, 3);
-            button1.Name = "button1";
-            button1.Size = new Size(177, 114);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            btnWire.Dock = DockStyle.Fill;
+            btnWire.Location = new Point(3, 3);
+            btnWire.Name = "btnWire";
+            btnWire.Size = new Size(172, 126);
+            btnWire.TabIndex = 0;
+            btnWire.Text = "Wire";
+            btnWire.UseVisualStyleBackColor = true;
+            btnWire.Click += this.btnWire_Click;
             // 
             // grbBombInfo
             // 
+            grbBombInfo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             grbBombInfo.Controls.Add(lblBatteries);
             grbBombInfo.Controls.Add(nudBatteries);
             grbBombInfo.Controls.Add(grbStrike);
@@ -384,10 +387,9 @@
             grbBombInfo.Controls.Add(lblSerial);
             grbBombInfo.Controls.Add(cbCAR);
             grbBombInfo.Controls.Add(cbFRK);
-            grbBombInfo.Dock = DockStyle.Top;
-            grbBombInfo.Location = new Point(0, 0);
+            grbBombInfo.Location = new Point(0, -8);
             grbBombInfo.Name = "grbBombInfo";
-            grbBombInfo.Size = new Size(812, 89);
+            grbBombInfo.Size = new Size(739, 85);
             grbBombInfo.TabIndex = 10;
             grbBombInfo.TabStop = false;
             grbBombInfo.Enter += groupBox3_Enter;
@@ -396,7 +398,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(812, 513);
+            ClientSize = new Size(739, 492);
             Controls.Add(grbBombInfo);
             Controls.Add(tableLayoutPanel1);
             Name = "KTNESolver";
@@ -443,7 +445,7 @@
         private Button button4;
         private Button button3;
         private Button button2;
-        private Button button1;
+        private Button btnWire;
         private GroupBox grbBombInfo;
     }
 }
