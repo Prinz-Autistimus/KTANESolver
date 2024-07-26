@@ -54,7 +54,7 @@
             button6 = new Button();
             button5 = new Button();
             button4 = new Button();
-            button3 = new Button();
+            btnKeypad = new Button();
             btnButton = new Button();
             btnWire = new Button();
             grbBombInfo = new GroupBox();
@@ -238,7 +238,7 @@
             tableLayoutPanel1.Controls.Add(button6, 1, 1);
             tableLayoutPanel1.Controls.Add(button5, 0, 1);
             tableLayoutPanel1.Controls.Add(button4, 3, 0);
-            tableLayoutPanel1.Controls.Add(button3, 2, 0);
+            tableLayoutPanel1.Controls.Add(btnKeypad, 2, 0);
             tableLayoutPanel1.Controls.Add(btnButton, 1, 0);
             tableLayoutPanel1.Controls.Add(btnWire, 0, 0);
             tableLayoutPanel1.Location = new Point(12, 83);
@@ -340,15 +340,17 @@
             button4.Text = "button4";
             button4.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnKeypad
             // 
-            button3.Dock = DockStyle.Fill;
-            button3.Location = new Point(359, 3);
-            button3.Name = "button3";
-            button3.Size = new Size(172, 126);
-            button3.TabIndex = 2;
-            button3.Text = "button3";
-            button3.UseVisualStyleBackColor = true;
+            btnKeypad.BackgroundImage = Properties.Resources.Keypad;
+            btnKeypad.BackgroundImageLayout = ImageLayout.Zoom;
+            btnKeypad.Dock = DockStyle.Fill;
+            btnKeypad.Location = new Point(359, 3);
+            btnKeypad.Name = "btnKeypad";
+            btnKeypad.Size = new Size(172, 126);
+            btnKeypad.TabIndex = 2;
+            btnKeypad.UseVisualStyleBackColor = true;
+            btnKeypad.Click += btnKeypad_Click;
             // 
             // btnButton
             // 
@@ -442,7 +444,7 @@
         private Button button6;
         private Button button5;
         private Button button4;
-        private Button button3;
+        private Button btnKeypad;
         private Button btnButton;
         private Button btnWire;
         private GroupBox grbBombInfo;

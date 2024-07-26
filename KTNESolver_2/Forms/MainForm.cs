@@ -19,6 +19,11 @@ namespace KTNESolver_2
             ButtonForm buttonForm = new ButtonForm(getBombInfo);
             buttonForm.Show();
         }
+        private void btnKeypad_Click(object sender, EventArgs e)
+        {
+            KeypadForm keypadForm = new KeypadForm(getBombInfo);
+            keypadForm.Show();
+        }
 
         private int getStrikes()
         {

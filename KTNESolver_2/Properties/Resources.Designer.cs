@@ -193,6 +193,16 @@ namespace KTNESolver_2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Keypad {
+            get {
+                object obj = ResourceManager.GetObject("Keypad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap leftc {
             get {
                 object obj = ResourceManager.GetObject("leftc", resourceCulture);
