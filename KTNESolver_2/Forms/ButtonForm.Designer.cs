@@ -31,13 +31,13 @@
             comboColor = new ComboBox();
             label1 = new Label();
             label2 = new Label();
-            comboBox1 = new ComboBox();
+            comboText = new ComboBox();
             grb1 = new GroupBox();
-            label4 = new Label();
+            lblAction = new Label();
             label3 = new Label();
             grbHold = new GroupBox();
-            label6 = new Label();
-            comboBox2 = new ComboBox();
+            lblLetgo = new Label();
+            comboHold = new ComboBox();
             label5 = new Label();
             grb1.SuspendLayout();
             grbHold.SuspendLayout();
@@ -72,22 +72,22 @@
             label2.TabIndex = 2;
             label2.Text = "Text:";
             // 
-            // comboBox1
+            // comboText
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "None", "Abbrechen", "Sprengen", "Gedrückt Halten" });
-            comboBox1.Location = new Point(55, 56);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(121, 23);
-            comboBox1.TabIndex = 3;
-            comboBox1.Text = "None";
-            comboBox1.SelectedIndexChanged += solve;
+            comboText.FormattingEnabled = true;
+            comboText.Items.AddRange(new object[] { "None", "Abbrechen", "Sprengen", "Gedrückt Halten" });
+            comboText.Location = new Point(55, 56);
+            comboText.Name = "comboText";
+            comboText.Size = new Size(121, 23);
+            comboText.TabIndex = 3;
+            comboText.Text = "None";
+            comboText.SelectedIndexChanged += solve;
             // 
             // grb1
             // 
-            grb1.Controls.Add(label4);
+            grb1.Controls.Add(lblAction);
             grb1.Controls.Add(label3);
-            grb1.Controls.Add(comboBox1);
+            grb1.Controls.Add(comboText);
             grb1.Controls.Add(comboColor);
             grb1.Controls.Add(label2);
             grb1.Controls.Add(label1);
@@ -97,15 +97,15 @@
             grb1.TabIndex = 4;
             grb1.TabStop = false;
             // 
-            // label4
+            // lblAction
             // 
-            label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(74, 99);
-            label4.Name = "label4";
-            label4.Size = new Size(61, 21);
-            label4.TabIndex = 5;
-            label4.Text = "ERROR";
+            lblAction.AutoSize = true;
+            lblAction.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblAction.Location = new Point(74, 99);
+            lblAction.Name = "lblAction";
+            lblAction.Size = new Size(70, 21);
+            lblAction.TabIndex = 5;
+            lblAction.Text = "Waiting";
             // 
             // label3
             // 
@@ -118,8 +118,8 @@
             // 
             // grbHold
             // 
-            grbHold.Controls.Add(label6);
-            grbHold.Controls.Add(comboBox2);
+            grbHold.Controls.Add(lblLetgo);
+            grbHold.Controls.Add(comboHold);
             grbHold.Controls.Add(label5);
             grbHold.Location = new Point(12, 171);
             grbHold.Name = "grbHold";
@@ -129,26 +129,26 @@
             grbHold.Text = "Hold only";
             grbHold.Visible = false;
             // 
-            // label6
+            // lblLetgo
             // 
-            label6.AutoSize = true;
-            label6.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(18, 72);
-            label6.Name = "label6";
-            label6.Size = new Size(98, 21);
-            label6.TabIndex = 8;
-            label6.Text = "Let go on #:";
+            lblLetgo.AutoSize = true;
+            lblLetgo.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblLetgo.Location = new Point(18, 72);
+            lblLetgo.Name = "lblLetgo";
+            lblLetgo.Size = new Size(107, 21);
+            lblLetgo.TabIndex = 8;
+            lblLetgo.Text = "Let go on #1:";
             // 
-            // comboBox2
+            // comboHold
             // 
-            comboBox2.FormattingEnabled = true;
-            comboBox2.Items.AddRange(new object[] { "Blue", "White", "Yellow", "Other" });
-            comboBox2.Location = new Point(55, 27);
-            comboBox2.Name = "comboBox2";
-            comboBox2.Size = new Size(121, 23);
-            comboBox2.TabIndex = 6;
-            comboBox2.Text = "Other";
-            comboBox2.SelectedIndexChanged += solve;
+            comboHold.FormattingEnabled = true;
+            comboHold.Items.AddRange(new object[] { "Blue", "White", "Yellow", "Other" });
+            comboHold.Location = new Point(55, 27);
+            comboHold.Name = "comboHold";
+            comboHold.Size = new Size(121, 23);
+            comboHold.TabIndex = 6;
+            comboHold.Text = "Other";
+            comboHold.SelectedIndexChanged += holdColor;
             // 
             // label5
             // 
@@ -180,13 +180,13 @@
         private ComboBox comboColor;
         private Label label1;
         private Label label2;
-        private ComboBox comboBox1;
+        private ComboBox comboText;
         private GroupBox grb1;
-        private Label label4;
+        private Label lblAction;
         private Label label3;
         private GroupBox grbHold;
-        private Label label6;
-        private ComboBox comboBox2;
+        private Label lblLetgo;
+        private ComboBox comboHold;
         private Label label5;
     }
 }
