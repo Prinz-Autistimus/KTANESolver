@@ -58,6 +58,7 @@
             btnButton = new Button();
             btnWire = new Button();
             grbBombInfo = new GroupBox();
+            btnReset = new Button();
             ((System.ComponentModel.ISupportInitialize)nudBatteries).BeginInit();
             grbSerial.SuspendLayout();
             grbStrike.SuspendLayout();
@@ -380,6 +381,7 @@
             // grbBombInfo
             // 
             grbBombInfo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            grbBombInfo.Controls.Add(btnReset);
             grbBombInfo.Controls.Add(lblBatteries);
             grbBombInfo.Controls.Add(nudBatteries);
             grbBombInfo.Controls.Add(grbStrike);
@@ -395,6 +397,17 @@
             grbBombInfo.Size = new Size(739, 85);
             grbBombInfo.TabIndex = 10;
             grbBombInfo.TabStop = false;
+            // 
+            // btnReset
+            // 
+            btnReset.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnReset.Location = new Point(535, 55);
+            btnReset.Name = "btnReset";
+            btnReset.Size = new Size(189, 23);
+            btnReset.TabIndex = 9;
+            btnReset.Text = "RESET BOMB";
+            btnReset.UseVisualStyleBackColor = true;
+            btnReset.Click += btnReset_Click;
             // 
             // KTNESolver
             // 
@@ -448,5 +461,6 @@
         private Button btnButton;
         private Button btnWire;
         private GroupBox grbBombInfo;
+        private Button btnReset;
     }
 }

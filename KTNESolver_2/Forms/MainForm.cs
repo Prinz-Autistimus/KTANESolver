@@ -37,5 +37,18 @@ namespace KTNESolver_2
             return new bombInfo(Convert.ToInt32(nudBatteries.Value), rbSerialEven.Checked, cbSerialVowel.Checked, cbParallel.Checked, cbFRK.Checked, cbCAR.Checked, getStrikes());
         }
 
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            nudBatteries.Value = 0;
+            cbParallel.Checked = false;
+            cbSerialVowel.Checked = false;
+            rbSerialEven.Checked = true;
+            rbSerialOdd.Checked = false;
+            cbFRK.Checked = false;
+            cbCAR.Checked = false;
+            rbStrike0.Checked = true;
+            rbStrike1.Checked = false;
+            rbStrike2.Checked = false;
+        }
     }
 }
