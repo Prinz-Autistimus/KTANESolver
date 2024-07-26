@@ -55,7 +55,7 @@
             button5 = new Button();
             button4 = new Button();
             button3 = new Button();
-            button2 = new Button();
+            btnButton = new Button();
             btnWire = new Button();
             grbBombInfo = new GroupBox();
             ((System.ComponentModel.ISupportInitialize)nudBatteries).BeginInit();
@@ -112,7 +112,6 @@
             rbSerialEven.TabStop = true;
             rbSerialEven.Text = "gerade";
             rbSerialEven.UseVisualStyleBackColor = true;
-            rbSerialEven.CheckedChanged += radioButton1_CheckedChanged;
             // 
             // rbSerialOdd
             // 
@@ -133,7 +132,6 @@
             lblSerial.Size = new Size(88, 15);
             lblSerial.TabIndex = 1;
             lblSerial.Text = "Seriennummer:";
-            lblSerial.Click += label2_Click;
             // 
             // cbFRK
             // 
@@ -209,7 +207,6 @@
             rbStrike1.TabStop = true;
             rbStrike1.Text = "1";
             rbStrike1.UseVisualStyleBackColor = true;
-            rbStrike1.CheckedChanged += radioButton2_CheckedChanged;
             // 
             // rbStrike0
             // 
@@ -242,7 +239,7 @@
             tableLayoutPanel1.Controls.Add(button5, 0, 1);
             tableLayoutPanel1.Controls.Add(button4, 3, 0);
             tableLayoutPanel1.Controls.Add(button3, 2, 0);
-            tableLayoutPanel1.Controls.Add(button2, 1, 0);
+            tableLayoutPanel1.Controls.Add(btnButton, 1, 0);
             tableLayoutPanel1.Controls.Add(btnWire, 0, 0);
             tableLayoutPanel1.Location = new Point(12, 83);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -353,15 +350,16 @@
             button3.Text = "button3";
             button3.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnButton
             // 
-            button2.Dock = DockStyle.Fill;
-            button2.Location = new Point(181, 3);
-            button2.Name = "button2";
-            button2.Size = new Size(172, 126);
-            button2.TabIndex = 1;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
+            btnButton.Dock = DockStyle.Fill;
+            btnButton.Location = new Point(181, 3);
+            btnButton.Name = "btnButton";
+            btnButton.Size = new Size(172, 126);
+            btnButton.TabIndex = 1;
+            btnButton.Text = "Button";
+            btnButton.UseVisualStyleBackColor = true;
+            btnButton.Click += button2_Click;
             // 
             // btnWire
             // 
@@ -372,7 +370,7 @@
             btnWire.TabIndex = 0;
             btnWire.Text = "Wire";
             btnWire.UseVisualStyleBackColor = true;
-            btnWire.Click += this.btnWire_Click;
+            btnWire.Click += btnWire_Click;
             // 
             // grbBombInfo
             // 
@@ -392,7 +390,6 @@
             grbBombInfo.Size = new Size(739, 85);
             grbBombInfo.TabIndex = 10;
             grbBombInfo.TabStop = false;
-            grbBombInfo.Enter += groupBox3_Enter;
             // 
             // KTNESolver
             // 
@@ -403,7 +400,6 @@
             Controls.Add(tableLayoutPanel1);
             Name = "KTNESolver";
             Text = " Keep talking and nobody explodes Solver";
-            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)nudBatteries).EndInit();
             grbSerial.ResumeLayout(false);
             grbSerial.PerformLayout();
@@ -444,7 +440,7 @@
         private Button button5;
         private Button button4;
         private Button button3;
-        private Button button2;
+        private Button btnButton;
         private Button btnWire;
         private GroupBox grbBombInfo;
     }
