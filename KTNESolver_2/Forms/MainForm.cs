@@ -14,9 +14,10 @@ namespace KTNESolver_2
             WireForm wireForm = new WireForm(getBombInfo);
             wireForm.Show();
         }
-        private void button2_Click(object sender, EventArgs e)
+        private void btnButton_Click(object sender, EventArgs e)
         {
-
+            ButtonForm buttonForm = new ButtonForm(getBombInfo);
+            buttonForm.Show();
         }
 
         private int getStrikes()

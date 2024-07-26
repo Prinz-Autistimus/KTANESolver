@@ -12,9 +12,20 @@ namespace KTNESolver_2.Forms
 {
     public partial class ButtonForm : Form
     {
-        public ButtonForm()
+
+        Func<bombInfo> infoGetter;
+        bombInfo currentInfo;
+
+        public ButtonForm(Func<bombInfo> infoGetterFunc)
         {
             InitializeComponent();
+            this.infoGetter = infoGetterFunc;
         }
+
+        private void solve(object sender, EventArgs e)
+        {
+            currentInfo = infoGetter();
+        }
+
     }
 }

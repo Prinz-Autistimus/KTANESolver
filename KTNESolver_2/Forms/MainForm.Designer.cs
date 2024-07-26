@@ -352,23 +352,26 @@
             // 
             // btnButton
             // 
+            btnButton.BackgroundImage = Properties.Resources.Button;
+            btnButton.BackgroundImageLayout = ImageLayout.Zoom;
             btnButton.Dock = DockStyle.Fill;
             btnButton.Location = new Point(181, 3);
             btnButton.Name = "btnButton";
             btnButton.Size = new Size(172, 126);
             btnButton.TabIndex = 1;
-            btnButton.Text = "Button";
             btnButton.UseVisualStyleBackColor = true;
-            btnButton.Click += button2_Click;
+            btnButton.Click += btnButton_Click;
             // 
             // btnWire
             // 
+            btnWire.BackgroundImage = Properties.Resources.Wires;
+            btnWire.BackgroundImageLayout = ImageLayout.Zoom;
             btnWire.Dock = DockStyle.Fill;
             btnWire.Location = new Point(3, 3);
             btnWire.Name = "btnWire";
             btnWire.Size = new Size(172, 126);
             btnWire.TabIndex = 0;
-            btnWire.Text = "Wire";
+            btnWire.TextAlign = ContentAlignment.TopCenter;
             btnWire.UseVisualStyleBackColor = true;
             btnWire.Click += btnWire_Click;
             // 
