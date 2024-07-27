@@ -54,7 +54,7 @@
             button7 = new Button();
             button6 = new Button();
             button5 = new Button();
-            button4 = new Button();
+            btnSimonSays = new Button();
             btnKeypad = new Button();
             btnButton = new Button();
             btnWire = new Button();
@@ -240,7 +240,7 @@
             tableLayoutPanel1.Controls.Add(button7, 2, 1);
             tableLayoutPanel1.Controls.Add(button6, 1, 1);
             tableLayoutPanel1.Controls.Add(button5, 0, 1);
-            tableLayoutPanel1.Controls.Add(button4, 3, 0);
+            tableLayoutPanel1.Controls.Add(btnSimonSays, 3, 0);
             tableLayoutPanel1.Controls.Add(btnKeypad, 2, 0);
             tableLayoutPanel1.Controls.Add(btnButton, 1, 0);
             tableLayoutPanel1.Controls.Add(btnWire, 0, 0);
@@ -333,15 +333,18 @@
             button5.Text = "button5";
             button5.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnSimonSays
             // 
-            button4.Dock = DockStyle.Fill;
-            button4.Location = new Point(537, 3);
-            button4.Name = "button4";
-            button4.Size = new Size(175, 126);
-            button4.TabIndex = 3;
-            button4.Text = "button4";
-            button4.UseVisualStyleBackColor = true;
+            btnSimonSays.BackgroundImage = Properties.Resources.SimonSays;
+            btnSimonSays.BackgroundImageLayout = ImageLayout.Zoom;
+            btnSimonSays.Dock = DockStyle.Fill;
+            btnSimonSays.Location = new Point(537, 3);
+            btnSimonSays.Name = "btnSimonSays";
+            btnSimonSays.Size = new Size(175, 126);
+            btnSimonSays.TabIndex = 3;
+            btnWireTooltip.SetToolTip(btnSimonSays, "On the subject of Simon Says");
+            btnSimonSays.UseVisualStyleBackColor = true;
+            btnSimonSays.Click += btnSimonSays_Click;
             // 
             // btnKeypad
             // 
@@ -352,6 +355,7 @@
             btnKeypad.Name = "btnKeypad";
             btnKeypad.Size = new Size(172, 126);
             btnKeypad.TabIndex = 2;
+            btnWireTooltip.SetToolTip(btnKeypad, "On the subject of Keypads");
             btnKeypad.UseVisualStyleBackColor = true;
             btnKeypad.Click += btnKeypad_Click;
             // 
@@ -364,6 +368,7 @@
             btnButton.Name = "btnButton";
             btnButton.Size = new Size(172, 126);
             btnButton.TabIndex = 1;
+            btnWireTooltip.SetToolTip(btnButton, "On the subject of Buttons");
             btnButton.UseVisualStyleBackColor = true;
             btnButton.Click += btnButton_Click;
             // 
@@ -459,7 +464,7 @@
         private Button button7;
         private Button button6;
         private Button button5;
-        private Button button4;
+        private Button btnSimonSays;
         private Button btnKeypad;
         private Button btnButton;
         private Button btnWire;

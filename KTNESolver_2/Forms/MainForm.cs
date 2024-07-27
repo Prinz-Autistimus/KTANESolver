@@ -24,6 +24,11 @@ namespace KTNESolver_2
             KeypadForm keypadForm = new KeypadForm(getBombInfo);
             keypadForm.Show();
         }
+        private void btnSimonSays_Click(object sender, EventArgs e)
+        {
+            SimonSaysForm simonSaysForm = new SimonSaysForm(getBombInfo);
+            simonSaysForm.Show();
+        }
 
         private int getStrikes()
         {
@@ -50,5 +55,6 @@ namespace KTNESolver_2
             rbStrike1.Checked = false;
             rbStrike2.Checked = false;
         }
+
     }
 }
