@@ -30,6 +30,12 @@ namespace KTNESolver_2
             simonSaysForm.Show();
         }
 
+        private void btnWhosOnFirst_Click(object sender, EventArgs e)
+        {
+            WhosOnFirstForm whosOnFirstForm = new WhosOnFirstForm(getBombInfo);
+            whosOnFirstForm.Show();
+        }
+
         private int getStrikes()
         {
             if (rbStrike0.Checked) return 0;

@@ -163,6 +163,16 @@ namespace KTNESolver_2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Eye {
+            get {
+                object obj = ResourceManager.GetObject("Eye", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap filledstar {
             get {
                 object obj = ResourceManager.GetObject("filledstar", resourceCulture);
@@ -366,6 +376,16 @@ namespace KTNESolver_2.Properties {
         internal static System.Drawing.Bitmap upsidedowny {
             get {
                 object obj = ResourceManager.GetObject("upsidedowny", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhosOnFirst {
+            get {
+                object obj = ResourceManager.GetObject("WhosOnFirst", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

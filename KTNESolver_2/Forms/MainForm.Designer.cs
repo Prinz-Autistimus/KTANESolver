@@ -53,7 +53,7 @@
             button8 = new Button();
             button7 = new Button();
             button6 = new Button();
-            button5 = new Button();
+            btnWhosOnFirst = new Button();
             btnSimonSays = new Button();
             btnKeypad = new Button();
             btnButton = new Button();
@@ -239,7 +239,7 @@
             tableLayoutPanel1.Controls.Add(button8, 3, 1);
             tableLayoutPanel1.Controls.Add(button7, 2, 1);
             tableLayoutPanel1.Controls.Add(button6, 1, 1);
-            tableLayoutPanel1.Controls.Add(button5, 0, 1);
+            tableLayoutPanel1.Controls.Add(btnWhosOnFirst, 0, 1);
             tableLayoutPanel1.Controls.Add(btnSimonSays, 3, 0);
             tableLayoutPanel1.Controls.Add(btnKeypad, 2, 0);
             tableLayoutPanel1.Controls.Add(btnButton, 1, 0);
@@ -323,15 +323,18 @@
             button6.Text = "button6";
             button6.UseVisualStyleBackColor = true;
             // 
-            // button5
+            // btnWhosOnFirst
             // 
-            button5.Dock = DockStyle.Fill;
-            button5.Location = new Point(3, 135);
-            button5.Name = "button5";
-            button5.Size = new Size(172, 126);
-            button5.TabIndex = 4;
-            button5.Text = "button5";
-            button5.UseVisualStyleBackColor = true;
+            btnWhosOnFirst.BackgroundImage = Properties.Resources.WhosOnFirst;
+            btnWhosOnFirst.BackgroundImageLayout = ImageLayout.Zoom;
+            btnWhosOnFirst.Dock = DockStyle.Fill;
+            btnWhosOnFirst.Location = new Point(3, 135);
+            btnWhosOnFirst.Name = "btnWhosOnFirst";
+            btnWhosOnFirst.Size = new Size(172, 126);
+            btnWhosOnFirst.TabIndex = 4;
+            btnWireTooltip.SetToolTip(btnWhosOnFirst, "On the subject of Who's on First");
+            btnWhosOnFirst.UseVisualStyleBackColor = true;
+            btnWhosOnFirst.Click += btnWhosOnFirst_Click;
             // 
             // btnSimonSays
             // 
@@ -463,7 +466,7 @@
         private Button button8;
         private Button button7;
         private Button button6;
-        private Button button5;
+        private Button btnWhosOnFirst;
         private Button btnSimonSays;
         private Button btnKeypad;
         private Button btnButton;
