@@ -111,6 +111,7 @@ namespace KTNESolver_2.Forms
         private void btnReset_Click(object sender, EventArgs e)
         {
             outputIndex = 0;
+            updateOutput();
         }
 
         private void btnNext_Click(object sender, EventArgs e)

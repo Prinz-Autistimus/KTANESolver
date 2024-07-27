@@ -36,6 +36,12 @@ namespace KTNESolver_2
             whosOnFirstForm.Show();
         }
 
+        private void btnMemory_Click(object sender, EventArgs e)
+        {
+            MemoryForm memoryForm = new MemoryForm();
+            memoryForm.Show();
+        }
+
         private int getStrikes()
         {
             if (rbStrike0.Checked) return 0;

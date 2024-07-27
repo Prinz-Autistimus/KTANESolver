@@ -23,8 +23,4 @@
     </EmbeddedResource>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="resource\Button Icons\" />
-  </ItemGroup>
-
 </Project>

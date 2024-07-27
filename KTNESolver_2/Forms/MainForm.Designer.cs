@@ -52,7 +52,7 @@
             button9 = new Button();
             button8 = new Button();
             button7 = new Button();
-            button6 = new Button();
+            btnMemory = new Button();
             btnWhosOnFirst = new Button();
             btnSimonSays = new Button();
             btnKeypad = new Button();
@@ -238,7 +238,7 @@
             tableLayoutPanel1.Controls.Add(button9, 0, 2);
             tableLayoutPanel1.Controls.Add(button8, 3, 1);
             tableLayoutPanel1.Controls.Add(button7, 2, 1);
-            tableLayoutPanel1.Controls.Add(button6, 1, 1);
+            tableLayoutPanel1.Controls.Add(btnMemory, 1, 1);
             tableLayoutPanel1.Controls.Add(btnWhosOnFirst, 0, 1);
             tableLayoutPanel1.Controls.Add(btnSimonSays, 3, 0);
             tableLayoutPanel1.Controls.Add(btnKeypad, 2, 0);
@@ -313,15 +313,18 @@
             button7.Text = "button7";
             button7.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // btnMemory
             // 
-            button6.Dock = DockStyle.Fill;
-            button6.Location = new Point(181, 135);
-            button6.Name = "button6";
-            button6.Size = new Size(172, 126);
-            button6.TabIndex = 5;
-            button6.Text = "button6";
-            button6.UseVisualStyleBackColor = true;
+            btnMemory.BackgroundImage = Properties.Resources.Memory;
+            btnMemory.BackgroundImageLayout = ImageLayout.Zoom;
+            btnMemory.Dock = DockStyle.Fill;
+            btnMemory.Location = new Point(181, 135);
+            btnMemory.Name = "btnMemory";
+            btnMemory.Size = new Size(172, 126);
+            btnMemory.TabIndex = 5;
+            btnWireTooltip.SetToolTip(btnMemory, "On the subject of Memory");
+            btnMemory.UseVisualStyleBackColor = true;
+            btnMemory.Click += btnMemory_Click;
             // 
             // btnWhosOnFirst
             // 
@@ -465,7 +468,7 @@
         private Button button9;
         private Button button8;
         private Button button7;
-        private Button button6;
+        private Button btnMemory;
         private Button btnWhosOnFirst;
         private Button btnSimonSays;
         private Button btnKeypad;
