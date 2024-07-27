@@ -121,7 +121,7 @@
             Controls.Add(lbOut);
             Controls.Add(flowLayoutPanel1);
             Name = "SimonSaysForm";
-            Text = "SimonSaysForm";
+            Text = "Simon Says Solver";
             flowLayoutPanel1.ResumeLayout(false);
             ResumeLayout(false);
         }

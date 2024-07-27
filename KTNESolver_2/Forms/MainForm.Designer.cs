@@ -48,7 +48,7 @@
             tableLayoutPanel1 = new TableLayoutPanel();
             button11 = new Button();
             button10 = new Button();
-            button9 = new Button();
+            btnWireSequence = new Button();
             btnCWire = new Button();
             btnMorse = new Button();
             btnMemory = new Button();
@@ -233,7 +233,7 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.Controls.Add(button11, 2, 2);
             tableLayoutPanel1.Controls.Add(button10, 1, 2);
-            tableLayoutPanel1.Controls.Add(button9, 0, 2);
+            tableLayoutPanel1.Controls.Add(btnWireSequence, 0, 2);
             tableLayoutPanel1.Controls.Add(btnCWire, 3, 1);
             tableLayoutPanel1.Controls.Add(btnMorse, 2, 1);
             tableLayoutPanel1.Controls.Add(btnMemory, 1, 1);
@@ -271,15 +271,18 @@
             button10.Text = "button10";
             button10.UseVisualStyleBackColor = true;
             // 
-            // button9
+            // btnWireSequence
             // 
-            button9.Dock = DockStyle.Fill;
-            button9.Location = new Point(3, 267);
-            button9.Name = "button9";
-            button9.Size = new Size(172, 127);
-            button9.TabIndex = 8;
-            button9.Text = "button9";
-            button9.UseVisualStyleBackColor = true;
+            btnWireSequence.BackgroundImage = Properties.Resources.WireSequence;
+            btnWireSequence.BackgroundImageLayout = ImageLayout.Zoom;
+            btnWireSequence.Dock = DockStyle.Fill;
+            btnWireSequence.Location = new Point(3, 267);
+            btnWireSequence.Name = "btnWireSequence";
+            btnWireSequence.Size = new Size(172, 127);
+            btnWireSequence.TabIndex = 8;
+            btnWireTooltip.SetToolTip(btnWireSequence, "On the subject of Wire Sequence");
+            btnWireSequence.UseVisualStyleBackColor = true;
+            btnWireSequence.Click += btnWireSequence_Click;
             // 
             // btnCWire
             // 
@@ -290,6 +293,7 @@
             btnCWire.Name = "btnCWire";
             btnCWire.Size = new Size(175, 126);
             btnCWire.TabIndex = 7;
+            btnWireTooltip.SetToolTip(btnCWire, "On the subject of Complicated Wires");
             btnCWire.UseVisualStyleBackColor = true;
             btnCWire.Click += btnCWire_Click;
             // 
@@ -457,7 +461,7 @@
         private TableLayoutPanel tableLayoutPanel1;
         private Button button11;
         private Button button10;
-        private Button button9;
+        private Button btnWireSequence;
         private Button btnCWire;
         private Button btnMorse;
         private Button btnMemory;

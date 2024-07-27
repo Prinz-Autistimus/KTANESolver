@@ -51,6 +51,11 @@ namespace KTNESolver_2
             CWireForm cwireForm = new CWireForm(getBombInfo);
             cwireForm.Show();
         }
+        private void btnWireSequence_Click(object sender, EventArgs e)
+        {
+            WireSequenceForm wireSequenceForm = new WireSequenceForm();
+            wireSequenceForm.Show();    
+        }
 
         private int getStrikes()
         {

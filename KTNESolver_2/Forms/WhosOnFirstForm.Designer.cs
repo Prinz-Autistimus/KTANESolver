@@ -283,7 +283,7 @@
             Controls.Add(tableBoxes);
             Controls.Add(grbInput);
             Name = "WhosOnFirstForm";
-            Text = "WhosOnFirstForm";
+            Text = "WOF Solver";
             grbInput.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pbTL).EndInit();
             ((System.ComponentModel.ISupportInitialize)pbTR).EndInit();

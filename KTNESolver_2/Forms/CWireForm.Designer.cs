@@ -152,7 +152,7 @@
             Controls.Add(label1);
             Controls.Add(tableLayoutPanel1);
             Name = "CWireForm";
-            Text = "CWireForm";
+            Text = "Complicated Wire Solver";
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pbCut).EndInit();
