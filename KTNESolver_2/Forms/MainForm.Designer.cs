@@ -46,7 +46,6 @@
             rbStrike1 = new RadioButton();
             rbStrike0 = new RadioButton();
             tableLayoutPanel1 = new TableLayoutPanel();
-            button12 = new Button();
             button11 = new Button();
             button10 = new Button();
             button9 = new Button();
@@ -232,7 +231,6 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
-            tableLayoutPanel1.Controls.Add(button12, 3, 2);
             tableLayoutPanel1.Controls.Add(button11, 2, 2);
             tableLayoutPanel1.Controls.Add(button10, 1, 2);
             tableLayoutPanel1.Controls.Add(button9, 0, 2);
@@ -252,16 +250,6 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 33.3333321F));
             tableLayoutPanel1.Size = new Size(715, 397);
             tableLayoutPanel1.TabIndex = 9;
-            // 
-            // button12
-            // 
-            button12.Dock = DockStyle.Fill;
-            button12.Location = new Point(537, 267);
-            button12.Name = "button12";
-            button12.Size = new Size(175, 127);
-            button12.TabIndex = 11;
-            button12.Text = "button12";
-            button12.UseVisualStyleBackColor = true;
             // 
             // button11
             // 
@@ -467,7 +455,6 @@
         private RadioButton rbStrike1;
         private RadioButton rbStrike0;
         private TableLayoutPanel tableLayoutPanel1;
-        private Button button12;
         private Button button11;
         private Button button10;
         private Button button9;
