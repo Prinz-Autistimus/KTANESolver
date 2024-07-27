@@ -72,6 +72,7 @@
             rb4.TabStop = true;
             rb4.Text = "4";
             rb4.UseVisualStyleBackColor = true;
+            rb4.CheckedChanged += rb4_CheckedChanged;
             // 
             // rb3
             // 
@@ -84,6 +85,7 @@
             rb3.TabStop = true;
             rb3.Text = "3";
             rb3.UseVisualStyleBackColor = true;
+            rb3.CheckedChanged += rb3_CheckedChanged;
             // 
             // rb2
             // 
@@ -96,6 +98,7 @@
             rb2.TabStop = true;
             rb2.Text = "2";
             rb2.UseVisualStyleBackColor = true;
+            rb2.CheckedChanged += rb2_CheckedChanged;
             // 
             // rbOne
             // 
@@ -108,6 +111,7 @@
             rbOne.TabStop = true;
             rbOne.Text = "1";
             rbOne.UseVisualStyleBackColor = true;
+            rbOne.CheckedChanged += rbOne_CheckedChanged;
             // 
             // nudPos
             // 
@@ -139,9 +143,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(103, 15);
             label2.Name = "label2";
-            label2.Size = new Size(35, 15);
+            label2.Size = new Size(32, 15);
             label2.TabIndex = 4;
-            label2.Text = "Value";
+            label2.Text = "Wert";
             // 
             // groupBox1
             // 
@@ -164,6 +168,7 @@
             btnConfirm.TabIndex = 6;
             btnConfirm.Text = "Confirm";
             btnConfirm.UseVisualStyleBackColor = true;
+            btnConfirm.Click += btnConfirm_Click;
             // 
             // btnReset
             // 
