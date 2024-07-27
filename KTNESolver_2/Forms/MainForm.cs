@@ -12,49 +12,74 @@ namespace KTNESolver_2
         private void btnWire_Click(object sender, EventArgs e)
         {
             WireForm wireForm = new WireForm(getBombInfo);
+            wireForm.StartPosition = FormStartPosition.Manual;
+            wireForm.DesktopLocation = this.DesktopLocation;
             wireForm.Show();
         }
         private void btnButton_Click(object sender, EventArgs e)
         {
             ButtonForm buttonForm = new ButtonForm(getBombInfo);
+            buttonForm.StartPosition = FormStartPosition.Manual;
+            buttonForm.DesktopLocation = this.DesktopLocation;
             buttonForm.Show();
         }
         private void btnKeypad_Click(object sender, EventArgs e)
         {
             KeypadForm keypadForm = new KeypadForm(getBombInfo);
+            keypadForm.StartPosition = FormStartPosition.Manual;
+            keypadForm.DesktopLocation = this.DesktopLocation;
             keypadForm.Show();
         }
         private void btnSimonSays_Click(object sender, EventArgs e)
         {
             SimonSaysForm simonSaysForm = new SimonSaysForm(getBombInfo);
+            simonSaysForm.StartPosition = FormStartPosition.Manual;
+            simonSaysForm.DesktopLocation = this.DesktopLocation;
             simonSaysForm.Show();
         }
 
         private void btnWhosOnFirst_Click(object sender, EventArgs e)
         {
             WhosOnFirstForm whosOnFirstForm = new WhosOnFirstForm(getBombInfo);
+            whosOnFirstForm.StartPosition = FormStartPosition.Manual;
+            whosOnFirstForm.DesktopLocation = this.DesktopLocation;
             whosOnFirstForm.Show();
         }
 
         private void btnMemory_Click(object sender, EventArgs e)
         {
             MemoryForm memoryForm = new MemoryForm();
+            memoryForm.StartPosition = FormStartPosition.Manual;
+            memoryForm.DesktopLocation = this.DesktopLocation;
             memoryForm.Show();
         }
         private void btnMorse_Click(object sender, EventArgs e)
         {
             MorseForm morseForm = new MorseForm();
+            morseForm.StartPosition = FormStartPosition.Manual;
+            morseForm.DesktopLocation = this.DesktopLocation;
             morseForm.Show();
         }
         private void btnCWire_Click(object sender, EventArgs e)
         {
             CWireForm cwireForm = new CWireForm(getBombInfo);
+            cwireForm.StartPosition = FormStartPosition.Manual;
+            cwireForm.DesktopLocation = this.DesktopLocation;
             cwireForm.Show();
         }
         private void btnWireSequence_Click(object sender, EventArgs e)
         {
             WireSequenceForm wireSequenceForm = new WireSequenceForm();
-            wireSequenceForm.Show();    
+            wireSequenceForm.StartPosition = FormStartPosition.Manual;
+            wireSequenceForm.DesktopLocation = this.DesktopLocation;
+            wireSequenceForm.Show();
+        }
+        private void btnPassword_Click(object sender, EventArgs e)
+        {
+            PasswordForm passwordForm = new PasswordForm();
+            passwordForm.StartPosition = FormStartPosition.Manual;
+            passwordForm.DesktopLocation = this.DesktopLocation;
+            passwordForm.Show();
         }
 
         private int getStrikes()

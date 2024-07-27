@@ -46,7 +46,7 @@
             rbStrike1 = new RadioButton();
             rbStrike0 = new RadioButton();
             tableLayoutPanel1 = new TableLayoutPanel();
-            button11 = new Button();
+            btnPassword = new Button();
             button10 = new Button();
             btnWireSequence = new Button();
             btnCWire = new Button();
@@ -231,7 +231,7 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
-            tableLayoutPanel1.Controls.Add(button11, 2, 2);
+            tableLayoutPanel1.Controls.Add(btnPassword, 2, 2);
             tableLayoutPanel1.Controls.Add(button10, 1, 2);
             tableLayoutPanel1.Controls.Add(btnWireSequence, 0, 2);
             tableLayoutPanel1.Controls.Add(btnCWire, 3, 1);
@@ -251,15 +251,17 @@
             tableLayoutPanel1.Size = new Size(715, 397);
             tableLayoutPanel1.TabIndex = 9;
             // 
-            // button11
+            // btnPassword
             // 
-            button11.Dock = DockStyle.Fill;
-            button11.Location = new Point(359, 267);
-            button11.Name = "button11";
-            button11.Size = new Size(172, 127);
-            button11.TabIndex = 10;
-            button11.Text = "button11";
-            button11.UseVisualStyleBackColor = true;
+            btnPassword.BackgroundImage = Properties.Resources.Password;
+            btnPassword.BackgroundImageLayout = ImageLayout.Zoom;
+            btnPassword.Dock = DockStyle.Fill;
+            btnPassword.Location = new Point(359, 267);
+            btnPassword.Name = "btnPassword";
+            btnPassword.Size = new Size(172, 127);
+            btnPassword.TabIndex = 10;
+            btnPassword.UseVisualStyleBackColor = true;
+            btnPassword.Click += btnPassword_Click;
             // 
             // button10
             // 
@@ -459,7 +461,7 @@
         private RadioButton rbStrike1;
         private RadioButton rbStrike0;
         private TableLayoutPanel tableLayoutPanel1;
-        private Button button11;
+        private Button btnPassword;
         private Button button10;
         private Button btnWireSequence;
         private Button btnCWire;
