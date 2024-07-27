@@ -20,33 +20,34 @@ namespace KTNESolver_2.Forms
         {
             InitializeComponent();
             this.infoGetter = infoGetterFunc;
+            solve(null, null);
         }
 
         private void solve(object sender, EventArgs e)
         {
             currentInfo = infoGetter();
 
-            if(checkCombination("Blue", "Abbrechen")) // 1
+            if (checkCombination("Blue", "Abbrechen")) // 1
             {
                 executeHold();
             }
-            else if(currentInfo.batteryCount >= 1 && checkText("Sprengen")) // 2
+            else if (currentInfo.batteryCount > 1 && checkText("Sprengen")) // 2
             {
                 executeShort();
             }
-            else if(checkColor("White") && currentInfo.hasCAR) // 3
+            else if (checkColor("White") && currentInfo.hasCAR) // 3
             {
                 executeHold();
             }
-            else if(currentInfo.batteryCount >= 2 && currentInfo.hasFRK) // 4
+            else if (currentInfo.batteryCount > 2 && currentInfo.hasFRK) // 4
             {
                 executeShort();
             }
-            else if(checkColor("Yellow")) // 5
+            else if (checkColor("Yellow")) // 5
             {
                 executeShort();
             }
-            else if(checkCombination("Red", "Gedrückt Halten")) // 6
+            else if (checkCombination("Red", "Gedrückt Halten")) // 6
             {
                 executeShort();
             }
@@ -58,18 +59,23 @@ namespace KTNESolver_2.Forms
 
         private void holdColor(object sender, EventArgs e)
         {
-            switch(comboHold.Text)
+            RadioButton rbChecked = new RadioButton();
+            foreach (RadioButton rb in flowHold.Controls)
             {
-                case "Blue":
+                if (rb.Checked) rbChecked = rb;
+            }
+            switch (rbChecked.Name)
+            {
+                case "rbHoldBlue":
                     lblLetgo.Text = "Let go on # 4";
                     break;
-                case "White":
+                case "rbHoldWhite":
                     lblLetgo.Text = "Let go on # 1";
                     break;
-                case "Yellow":
+                case "rbHoldYellow":
                     lblLetgo.Text = "Let go on # 5";
                     break;
-                default: 
+                default:
                     lblLetgo.Text = "Let go on # 1";
                     break;
             }
@@ -77,24 +83,38 @@ namespace KTNESolver_2.Forms
 
         private void executeHold()
         {
-            grbHold.Visible = true;
+            grbHoldOnly.Visible = true;
             lblAction.Text = "Hold Button";
         }
 
         private void executeShort()
         {
-            grbHold.Visible = false;
+            grbHoldOnly.Visible = false;
             lblAction.Text = "Press Shortly";
         }
 
         private bool checkColor(String color)
         {
-            return comboColor.Text.Equals(color);
+            foreach (RadioButton rb in flowColor.Controls)
+            {
+                if (rb.Checked && rb.Name.Equals("rb" + color))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         private bool checkText(String txt)
         {
-            return comboText.Text.Equals(txt);
+            foreach (RadioButton rb in flowText.Controls)
+            {
+                if (rb.Checked && rb.Text.Equals(txt))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         private bool checkCombination(String color, String txt)
@@ -102,5 +122,11 @@ namespace KTNESolver_2.Forms
             return checkColor(color) && checkText(txt);
         }
 
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            rbHoldNone.Checked = true;
+            rbNone.Checked = true;
+            rbOther.Checked = true;
+        }
     }
 }
