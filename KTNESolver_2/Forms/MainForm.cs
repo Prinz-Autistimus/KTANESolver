@@ -46,6 +46,11 @@ namespace KTNESolver_2
             MorseForm morseForm = new MorseForm();
             morseForm.Show();
         }
+        private void btnCWire_Click(object sender, EventArgs e)
+        {
+            CWireForm cwireForm = new CWireForm(getBombInfo);
+            cwireForm.Show();
+        }
 
         private int getStrikes()
         {

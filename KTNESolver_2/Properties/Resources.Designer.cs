@@ -133,6 +133,16 @@ namespace KTNESolver_2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap CWire {
+            get {
+                object obj = ResourceManager.GetObject("CWire", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Dash {
             get {
                 object obj = ResourceManager.GetObject("Dash", resourceCulture);
@@ -226,6 +236,16 @@ namespace KTNESolver_2.Properties {
         internal static System.Drawing.Bitmap Keypad {
             get {
                 object obj = ResourceManager.GetObject("Keypad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LED {
+            get {
+                object obj = ResourceManager.GetObject("LED", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -403,6 +423,16 @@ namespace KTNESolver_2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap tick {
+            get {
+                object obj = ResourceManager.GetObject("tick", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tracks {
             get {
                 object obj = ResourceManager.GetObject("tracks", resourceCulture);
@@ -436,6 +466,16 @@ namespace KTNESolver_2.Properties {
         internal static System.Drawing.Bitmap Wires {
             get {
                 object obj = ResourceManager.GetObject("Wires", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap x {
+            get {
+                object obj = ResourceManager.GetObject("x", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

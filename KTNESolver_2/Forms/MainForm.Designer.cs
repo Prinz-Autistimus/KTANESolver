@@ -50,7 +50,7 @@
             button11 = new Button();
             button10 = new Button();
             button9 = new Button();
-            button8 = new Button();
+            btnCWire = new Button();
             btnMorse = new Button();
             btnMemory = new Button();
             btnWhosOnFirst = new Button();
@@ -236,7 +236,7 @@
             tableLayoutPanel1.Controls.Add(button11, 2, 2);
             tableLayoutPanel1.Controls.Add(button10, 1, 2);
             tableLayoutPanel1.Controls.Add(button9, 0, 2);
-            tableLayoutPanel1.Controls.Add(button8, 3, 1);
+            tableLayoutPanel1.Controls.Add(btnCWire, 3, 1);
             tableLayoutPanel1.Controls.Add(btnMorse, 2, 1);
             tableLayoutPanel1.Controls.Add(btnMemory, 1, 1);
             tableLayoutPanel1.Controls.Add(btnWhosOnFirst, 0, 1);
@@ -293,15 +293,17 @@
             button9.Text = "button9";
             button9.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // btnCWire
             // 
-            button8.Dock = DockStyle.Fill;
-            button8.Location = new Point(537, 135);
-            button8.Name = "button8";
-            button8.Size = new Size(175, 126);
-            button8.TabIndex = 7;
-            button8.Text = "button8";
-            button8.UseVisualStyleBackColor = true;
+            btnCWire.BackgroundImage = Properties.Resources.CWire;
+            btnCWire.BackgroundImageLayout = ImageLayout.Zoom;
+            btnCWire.Dock = DockStyle.Fill;
+            btnCWire.Location = new Point(537, 135);
+            btnCWire.Name = "btnCWire";
+            btnCWire.Size = new Size(175, 126);
+            btnCWire.TabIndex = 7;
+            btnCWire.UseVisualStyleBackColor = true;
+            btnCWire.Click += btnCWire_Click;
             // 
             // btnMorse
             // 
@@ -469,7 +471,7 @@
         private Button button11;
         private Button button10;
         private Button button9;
-        private Button button8;
+        private Button btnCWire;
         private Button btnMorse;
         private Button btnMemory;
         private Button btnWhosOnFirst;
