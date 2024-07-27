@@ -41,6 +41,11 @@ namespace KTNESolver_2
             MemoryForm memoryForm = new MemoryForm();
             memoryForm.Show();
         }
+        private void btnMorse_Click(object sender, EventArgs e)
+        {
+            MorseForm morseForm = new MorseForm();
+            morseForm.Show();
+        }
 
         private int getStrikes()
         {

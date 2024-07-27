@@ -51,7 +51,7 @@
             button10 = new Button();
             button9 = new Button();
             button8 = new Button();
-            button7 = new Button();
+            btnMorse = new Button();
             btnMemory = new Button();
             btnWhosOnFirst = new Button();
             btnSimonSays = new Button();
@@ -237,7 +237,7 @@
             tableLayoutPanel1.Controls.Add(button10, 1, 2);
             tableLayoutPanel1.Controls.Add(button9, 0, 2);
             tableLayoutPanel1.Controls.Add(button8, 3, 1);
-            tableLayoutPanel1.Controls.Add(button7, 2, 1);
+            tableLayoutPanel1.Controls.Add(btnMorse, 2, 1);
             tableLayoutPanel1.Controls.Add(btnMemory, 1, 1);
             tableLayoutPanel1.Controls.Add(btnWhosOnFirst, 0, 1);
             tableLayoutPanel1.Controls.Add(btnSimonSays, 3, 0);
@@ -303,15 +303,18 @@
             button8.Text = "button8";
             button8.UseVisualStyleBackColor = true;
             // 
-            // button7
+            // btnMorse
             // 
-            button7.Dock = DockStyle.Fill;
-            button7.Location = new Point(359, 135);
-            button7.Name = "button7";
-            button7.Size = new Size(172, 126);
-            button7.TabIndex = 6;
-            button7.Text = "button7";
-            button7.UseVisualStyleBackColor = true;
+            btnMorse.BackgroundImage = Properties.Resources.Morse;
+            btnMorse.BackgroundImageLayout = ImageLayout.Zoom;
+            btnMorse.Dock = DockStyle.Fill;
+            btnMorse.Location = new Point(359, 135);
+            btnMorse.Name = "btnMorse";
+            btnMorse.Size = new Size(172, 126);
+            btnMorse.TabIndex = 6;
+            btnWireTooltip.SetToolTip(btnMorse, "On the subject of Morse Code");
+            btnMorse.UseVisualStyleBackColor = true;
+            btnMorse.Click += btnMorse_Click;
             // 
             // btnMemory
             // 
@@ -467,7 +470,7 @@
         private Button button10;
         private Button button9;
         private Button button8;
-        private Button button7;
+        private Button btnMorse;
         private Button btnMemory;
         private Button btnWhosOnFirst;
         private Button btnSimonSays;
