@@ -67,16 +67,16 @@ namespace KTNESolver_2.Forms
             switch (rbChecked.Name)
             {
                 case "rbHoldBlue":
-                    lblLetgo.Text = "Let go on # 4";
+                    lblLetgo.Text = "Los lassen bei # 4";
                     break;
                 case "rbHoldWhite":
-                    lblLetgo.Text = "Let go on # 1";
+                    lblLetgo.Text = "Los lassen bei # 1";
                     break;
                 case "rbHoldYellow":
-                    lblLetgo.Text = "Let go on # 5";
+                    lblLetgo.Text = "Los lassen bei # 5";
                     break;
                 default:
-                    lblLetgo.Text = "Let go on # 1";
+                    lblLetgo.Text = "Los lassen bei # 1";
                     break;
             }
         }
@@ -84,13 +84,13 @@ namespace KTNESolver_2.Forms
         private void executeHold()
         {
             grbHoldOnly.Visible = true;
-            lblAction.Text = "Hold Button";
+            lblAction.Text = "Halte Gedrückt!";
         }
 
         private void executeShort()
         {
             grbHoldOnly.Visible = false;
-            lblAction.Text = "Press Shortly";
+            lblAction.Text = "Kurz Drücken!";
         }
 
         private bool checkColor(String color)

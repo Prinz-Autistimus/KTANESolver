@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             lblBatteries = new Label();
             nudBatteries = new NumericUpDown();
             cbSerialVowel = new CheckBox();
@@ -59,6 +60,7 @@
             btnWire = new Button();
             grbBombInfo = new GroupBox();
             btnReset = new Button();
+            btnWireTooltip = new ToolTip(components);
             ((System.ComponentModel.ISupportInitialize)nudBatteries).BeginInit();
             grbSerial.SuspendLayout();
             grbStrike.SuspendLayout();
@@ -375,6 +377,7 @@
             btnWire.Size = new Size(172, 126);
             btnWire.TabIndex = 0;
             btnWire.TextAlign = ContentAlignment.TopCenter;
+            btnWireTooltip.SetToolTip(btnWire, "On the subject of Wires");
             btnWire.UseVisualStyleBackColor = true;
             btnWire.Click += btnWire_Click;
             // 
@@ -462,5 +465,6 @@
         private Button btnWire;
         private GroupBox grbBombInfo;
         private Button btnReset;
+        private ToolTip btnWireTooltip;
     }
 }

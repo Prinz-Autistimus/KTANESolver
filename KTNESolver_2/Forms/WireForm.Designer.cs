@@ -71,7 +71,6 @@
             rbYellow6 = new RadioButton();
             rbNone6 = new RadioButton();
             grbWires = new GroupBox();
-            lbl1 = new Label();
             lblOut = new Label();
             btnReset = new Button();
             tableLayoutPanel1.SuspendLayout();
@@ -679,28 +678,17 @@
             grbWires.Size = new Size(419, 306);
             grbWires.TabIndex = 0;
             grbWires.TabStop = false;
-            grbWires.Text = "Wires";
-            // 
-            // lbl1
-            // 
-            lbl1.AutoSize = true;
-            lbl1.BorderStyle = BorderStyle.Fixed3D;
-            lbl1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lbl1.Location = new Point(494, 39);
-            lbl1.Name = "lbl1";
-            lbl1.Size = new Size(145, 27);
-            lbl1.TabIndex = 2;
-            lbl1.Text = "Ready to Solve";
+            grbWires.Text = "Kabel";
             // 
             // lblOut
             // 
             lblOut.AutoSize = true;
             lblOut.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblOut.Location = new Point(494, 97);
+            lblOut.Location = new Point(439, 97);
             lblOut.Name = "lblOut";
-            lblOut.Size = new Size(149, 21);
+            lblOut.Size = new Size(244, 21);
             lblOut.TabIndex = 3;
-            lblOut.Text = "Not enough Wires";
+            lblOut.Text = "Nicht genug Kabel ausgewählt";
             // 
             // btnReset
             // 
@@ -720,7 +708,6 @@
             ClientSize = new Size(695, 336);
             Controls.Add(btnReset);
             Controls.Add(lblOut);
-            Controls.Add(lbl1);
             Controls.Add(grbWires);
             Name = "WireForm";
             Text = "Wire Solver";
@@ -786,7 +773,6 @@
         private RadioButton rbYellow6;
         private RadioButton rbNone6;
         private GroupBox grbWires;
-        private Label lbl1;
         private Label lblOut;
         private Button btnReset;
     }

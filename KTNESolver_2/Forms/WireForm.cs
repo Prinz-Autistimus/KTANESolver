@@ -37,7 +37,7 @@ namespace KTNESolver_2.Forms
         {
             if (!atLeastThreeWires())
             {
-                lblOut.Text = "Not enough Wires";
+                lblOut.Text = "Nicht genug Kabel ausgewählt";
                 return;
             }
 
@@ -52,7 +52,7 @@ namespace KTNESolver_2.Forms
                 _ => 0
             };
 
-            lblOut.Text = "Cut Wire #" + wireToCut;
+            lblOut.Text = "Schneide Kabel #" + wireToCut;
         }
 
         private int solveThree()

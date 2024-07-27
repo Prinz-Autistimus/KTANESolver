@@ -64,9 +64,9 @@
             lblAction.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblAction.Location = new Point(79, 168);
             lblAction.Name = "lblAction";
-            lblAction.Size = new Size(70, 21);
+            lblAction.Size = new Size(67, 21);
             lblAction.TabIndex = 5;
-            lblAction.Text = "Waiting";
+            lblAction.Text = "Bereit...";
             // 
             // label3
             // 
@@ -75,7 +75,7 @@
             label3.Name = "label3";
             label3.Size = new Size(45, 15);
             label3.TabIndex = 4;
-            label3.Text = "Action:";
+            label3.Text = "Aktion:";
             // 
             // lblLetgo
             // 
@@ -247,7 +247,6 @@
             grbHoldOnly.Size = new Size(390, 158);
             grbHoldOnly.TabIndex = 7;
             grbHoldOnly.TabStop = false;
-            grbHoldOnly.Text = "Hold Only";
             grbHoldOnly.Visible = false;
             // 
             // label4
@@ -257,7 +256,7 @@
             label4.Name = "label4";
             label4.Size = new Size(45, 15);
             label4.TabIndex = 6;
-            label4.Text = "Action:";
+            label4.Text = "Aktion:";
             // 
             // flowHold
             // 
