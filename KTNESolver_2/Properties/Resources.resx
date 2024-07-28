@@ -121,12 +121,6 @@
   <data name="Keypad" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Button Icons\Keypad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="copyright" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Keypads\copyright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WhosOnFirst" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Button Icons\WhosOnFirst.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="hollowstar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\hollowstar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -136,8 +130,14 @@
   <data name="Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Button Icons\Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Eye" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Whos on First\Eye.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="euro" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\euro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Password" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Button Icons\Password.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CWire" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Button Icons\CWire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,8 +145,14 @@
   <data name="Dash" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Morse\Dash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="at" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Keypads\at.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pitchfork" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\pitchfork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Button Icons\Maze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="paragraph" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\paragraph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -159,6 +165,9 @@
   </data>
   <data name="SimonSays" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Button Icons\SimonSays.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Keypads\bt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="omega" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\omega.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,11 +208,11 @@
   <data name="Wires" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Button Icons\Wires.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Morse" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Button Icons\Morse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="copyright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Keypads\copyright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cursive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Keypads\cursive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="WireSequence" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Button Icons\WireSequence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="questionmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\questionmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -220,8 +229,8 @@
   <data name="pumpkin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\pumpkin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Eye" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Whos on First\Eye.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="WhosOnFirst" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Button Icons\WhosOnFirst.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="smileyface" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\smileyface.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -229,14 +238,11 @@
   <data name="dot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Morse\dot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Keypads\bt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cursive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Keypads\cursive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="upsidedowny" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\upsidedowny.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WireSequence" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Button Icons\WireSequence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="meltedthree" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\meltedthree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -244,10 +250,16 @@
   <data name="tracks" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Keypads\tracks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="at" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Keypads\at.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Morse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Button Icons\Morse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Password" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resource\Button Icons\Password.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dot1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\dot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dot_Circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\dot_Circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Endpoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\Endpoint.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

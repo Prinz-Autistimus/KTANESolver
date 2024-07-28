@@ -163,6 +163,26 @@ namespace KTNESolver_2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap dot_Circle {
+            get {
+                object obj = ResourceManager.GetObject("dot_Circle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dot1 {
+            get {
+                object obj = ResourceManager.GetObject("dot1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap doublek {
             get {
                 object obj = ResourceManager.GetObject("doublek", resourceCulture);
@@ -176,6 +196,16 @@ namespace KTNESolver_2.Properties {
         internal static System.Drawing.Bitmap dragon {
             get {
                 object obj = ResourceManager.GetObject("dragon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Endpoint {
+            get {
+                object obj = ResourceManager.GetObject("Endpoint", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -256,6 +286,16 @@ namespace KTNESolver_2.Properties {
         internal static System.Drawing.Bitmap leftc {
             get {
                 object obj = ResourceManager.GetObject("leftc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Maze {
+            get {
+                object obj = ResourceManager.GetObject("Maze", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

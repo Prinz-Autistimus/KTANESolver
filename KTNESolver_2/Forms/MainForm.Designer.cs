@@ -47,7 +47,7 @@
             rbStrike0 = new RadioButton();
             tableLayoutPanel1 = new TableLayoutPanel();
             btnPassword = new Button();
-            button10 = new Button();
+            btnMaze = new Button();
             btnWireSequence = new Button();
             btnCWire = new Button();
             btnMorse = new Button();
@@ -232,7 +232,7 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.Controls.Add(btnPassword, 2, 2);
-            tableLayoutPanel1.Controls.Add(button10, 1, 2);
+            tableLayoutPanel1.Controls.Add(btnMaze, 1, 2);
             tableLayoutPanel1.Controls.Add(btnWireSequence, 0, 2);
             tableLayoutPanel1.Controls.Add(btnCWire, 3, 1);
             tableLayoutPanel1.Controls.Add(btnMorse, 2, 1);
@@ -263,15 +263,17 @@
             btnPassword.UseVisualStyleBackColor = true;
             btnPassword.Click += btnPassword_Click;
             // 
-            // button10
+            // btnMaze
             // 
-            button10.Dock = DockStyle.Fill;
-            button10.Location = new Point(181, 267);
-            button10.Name = "button10";
-            button10.Size = new Size(172, 127);
-            button10.TabIndex = 9;
-            button10.Text = "button10";
-            button10.UseVisualStyleBackColor = true;
+            btnMaze.BackgroundImage = Properties.Resources.Maze;
+            btnMaze.BackgroundImageLayout = ImageLayout.Zoom;
+            btnMaze.Dock = DockStyle.Fill;
+            btnMaze.Location = new Point(181, 267);
+            btnMaze.Name = "btnMaze";
+            btnMaze.Size = new Size(172, 127);
+            btnMaze.TabIndex = 9;
+            btnMaze.UseVisualStyleBackColor = true;
+            btnMaze.Click += btnMaze_Click;
             // 
             // btnWireSequence
             // 
@@ -462,7 +464,7 @@
         private RadioButton rbStrike0;
         private TableLayoutPanel tableLayoutPanel1;
         private Button btnPassword;
-        private Button button10;
+        private Button btnMaze;
         private Button btnWireSequence;
         private Button btnCWire;
         private Button btnMorse;

@@ -81,6 +81,13 @@ namespace KTNESolver_2
             passwordForm.DesktopLocation = this.DesktopLocation;
             passwordForm.Show();
         }
+        private void btnMaze_Click(object sender, EventArgs e)
+        {
+            MazeForm mazeForm = new MazeForm();
+            mazeForm.StartPosition = FormStartPosition.Manual;
+            mazeForm.DesktopLocation = this.DesktopLocation;
+            mazeForm.Show();
+        }
 
         private int getStrikes()
         {
