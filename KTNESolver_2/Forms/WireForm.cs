@@ -98,7 +98,7 @@ namespace KTNESolver_2.Forms
             {
                 return 4;
             }
-            else if(redCount() == 1 && yellowCount() >= 1)
+            else if(redCount() == 1 && yellowCount() > 1)
             {
                 return 1;
             }

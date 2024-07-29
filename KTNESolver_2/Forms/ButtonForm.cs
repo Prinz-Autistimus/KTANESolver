@@ -45,7 +45,7 @@ namespace KTNESolver_2.Forms
             }
             else if (checkColor("Yellow")) // 5
             {
-                executeShort();
+                executeHold();
             }
             else if (checkCombination("Red", "Gedrückt Halten")) // 6
             {
