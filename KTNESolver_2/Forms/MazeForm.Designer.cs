@@ -873,7 +873,6 @@
             tableLayout.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayout.Size = new Size(376, 376);
             tableLayout.TabIndex = 2;
-            tableLayout.Paint += tableLayout_Paint;
             // 
             // pictureBox37
             // 
