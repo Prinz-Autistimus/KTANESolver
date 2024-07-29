@@ -78,8 +78,82 @@
             button1 = new Button();
             label1 = new Label();
             btnSearch = new Button();
-            label13 = new Label();
+            tableLayout = new TableLayoutPanel();
+            pictureBox37 = new PictureBox();
+            pictureBox36 = new PictureBox();
+            pictureBox35 = new PictureBox();
+            pictureBox34 = new PictureBox();
+            pictureBox33 = new PictureBox();
+            pictureBox32 = new PictureBox();
+            pictureBox31 = new PictureBox();
+            pictureBox30 = new PictureBox();
+            pictureBox29 = new PictureBox();
+            pictureBox28 = new PictureBox();
+            pictureBox27 = new PictureBox();
+            pictureBox26 = new PictureBox();
+            pictureBox25 = new PictureBox();
+            pictureBox24 = new PictureBox();
+            pictureBox23 = new PictureBox();
+            pictureBox22 = new PictureBox();
+            pictureBox21 = new PictureBox();
+            pictureBox20 = new PictureBox();
+            pictureBox19 = new PictureBox();
+            pictureBox18 = new PictureBox();
+            pictureBox17 = new PictureBox();
+            pictureBox16 = new PictureBox();
+            pictureBox15 = new PictureBox();
+            pictureBox14 = new PictureBox();
+            pictureBox13 = new PictureBox();
+            pictureBox12 = new PictureBox();
+            pictureBox11 = new PictureBox();
+            pictureBox10 = new PictureBox();
+            pictureBox9 = new PictureBox();
+            pictureBox8 = new PictureBox();
+            pictureBox7 = new PictureBox();
+            pictureBox6 = new PictureBox();
+            pictureBox5 = new PictureBox();
+            pictureBox4 = new PictureBox();
+            pictureBox3 = new PictureBox();
+            pictureBox2 = new PictureBox();
+            btnReset = new Button();
             tableLayoutPanel1.SuspendLayout();
+            tableLayout.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox37).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox36).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox35).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox34).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox33).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox32).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox31).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox30).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox29).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox28).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox27).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox26).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox25).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox24).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox23).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox22).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox21).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox20).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox19).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox18).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox17).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox16).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox15).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox14).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox13).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox12).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox10).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox9).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox8).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // tableLayoutPanel1
@@ -741,29 +815,524 @@
             btnSearch.UseVisualStyleBackColor = true;
             btnSearch.Click += btnSearch_Click;
             // 
-            // label13
+            // tableLayout
             // 
-            label13.AutoSize = true;
-            label13.Location = new Point(31, 497);
-            label13.Name = "label13";
-            label13.Size = new Size(44, 15);
-            label13.TabIndex = 2;
-            label13.Text = "label13";
+            tableLayout.BackgroundImageLayout = ImageLayout.Zoom;
+            tableLayout.ColumnCount = 6;
+            tableLayout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 16.666666F));
+            tableLayout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 16.666666F));
+            tableLayout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 16.666666F));
+            tableLayout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 16.666666F));
+            tableLayout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 16.666666F));
+            tableLayout.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 16.666666F));
+            tableLayout.Controls.Add(pictureBox37, 5, 5);
+            tableLayout.Controls.Add(pictureBox36, 4, 5);
+            tableLayout.Controls.Add(pictureBox35, 3, 5);
+            tableLayout.Controls.Add(pictureBox34, 2, 5);
+            tableLayout.Controls.Add(pictureBox33, 1, 5);
+            tableLayout.Controls.Add(pictureBox32, 0, 5);
+            tableLayout.Controls.Add(pictureBox31, 5, 4);
+            tableLayout.Controls.Add(pictureBox30, 4, 4);
+            tableLayout.Controls.Add(pictureBox29, 3, 4);
+            tableLayout.Controls.Add(pictureBox28, 2, 4);
+            tableLayout.Controls.Add(pictureBox27, 1, 4);
+            tableLayout.Controls.Add(pictureBox26, 0, 4);
+            tableLayout.Controls.Add(pictureBox25, 5, 3);
+            tableLayout.Controls.Add(pictureBox24, 4, 3);
+            tableLayout.Controls.Add(pictureBox23, 3, 3);
+            tableLayout.Controls.Add(pictureBox22, 2, 3);
+            tableLayout.Controls.Add(pictureBox21, 1, 3);
+            tableLayout.Controls.Add(pictureBox20, 0, 3);
+            tableLayout.Controls.Add(pictureBox19, 5, 2);
+            tableLayout.Controls.Add(pictureBox18, 4, 2);
+            tableLayout.Controls.Add(pictureBox17, 3, 2);
+            tableLayout.Controls.Add(pictureBox16, 2, 2);
+            tableLayout.Controls.Add(pictureBox15, 1, 2);
+            tableLayout.Controls.Add(pictureBox14, 0, 2);
+            tableLayout.Controls.Add(pictureBox13, 5, 1);
+            tableLayout.Controls.Add(pictureBox12, 4, 1);
+            tableLayout.Controls.Add(pictureBox11, 3, 1);
+            tableLayout.Controls.Add(pictureBox10, 2, 1);
+            tableLayout.Controls.Add(pictureBox9, 1, 1);
+            tableLayout.Controls.Add(pictureBox8, 0, 1);
+            tableLayout.Controls.Add(pictureBox7, 5, 0);
+            tableLayout.Controls.Add(pictureBox6, 4, 0);
+            tableLayout.Controls.Add(pictureBox5, 3, 0);
+            tableLayout.Controls.Add(pictureBox4, 2, 0);
+            tableLayout.Controls.Add(pictureBox3, 1, 0);
+            tableLayout.Controls.Add(pictureBox2, 0, 0);
+            tableLayout.Location = new Point(12, 374);
+            tableLayout.Name = "tableLayout";
+            tableLayout.RowCount = 6;
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Percent, 16.666666F));
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Percent, 16.666666F));
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Percent, 16.666666F));
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Percent, 16.666666F));
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Percent, 16.666666F));
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Percent, 16.666666F));
+            tableLayout.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayout.Size = new Size(376, 376);
+            tableLayout.TabIndex = 2;
+            tableLayout.Paint += tableLayout_Paint;
+            // 
+            // pictureBox37
+            // 
+            pictureBox37.BackColor = Color.Transparent;
+            pictureBox37.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox37.Dock = DockStyle.Fill;
+            pictureBox37.Location = new Point(313, 313);
+            pictureBox37.Name = "pictureBox37";
+            pictureBox37.Size = new Size(60, 60);
+            pictureBox37.TabIndex = 39;
+            pictureBox37.TabStop = false;
+            // 
+            // pictureBox36
+            // 
+            pictureBox36.BackColor = Color.Transparent;
+            pictureBox36.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox36.Dock = DockStyle.Fill;
+            pictureBox36.Location = new Point(251, 313);
+            pictureBox36.Name = "pictureBox36";
+            pictureBox36.Size = new Size(56, 60);
+            pictureBox36.TabIndex = 38;
+            pictureBox36.TabStop = false;
+            // 
+            // pictureBox35
+            // 
+            pictureBox35.BackColor = Color.Transparent;
+            pictureBox35.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox35.Dock = DockStyle.Fill;
+            pictureBox35.Location = new Point(189, 313);
+            pictureBox35.Name = "pictureBox35";
+            pictureBox35.Size = new Size(56, 60);
+            pictureBox35.TabIndex = 37;
+            pictureBox35.TabStop = false;
+            // 
+            // pictureBox34
+            // 
+            pictureBox34.BackColor = Color.Transparent;
+            pictureBox34.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox34.Dock = DockStyle.Fill;
+            pictureBox34.Location = new Point(127, 313);
+            pictureBox34.Name = "pictureBox34";
+            pictureBox34.Size = new Size(56, 60);
+            pictureBox34.TabIndex = 36;
+            pictureBox34.TabStop = false;
+            // 
+            // pictureBox33
+            // 
+            pictureBox33.BackColor = Color.Transparent;
+            pictureBox33.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox33.Dock = DockStyle.Fill;
+            pictureBox33.Location = new Point(65, 313);
+            pictureBox33.Name = "pictureBox33";
+            pictureBox33.Size = new Size(56, 60);
+            pictureBox33.TabIndex = 35;
+            pictureBox33.TabStop = false;
+            // 
+            // pictureBox32
+            // 
+            pictureBox32.BackColor = Color.Transparent;
+            pictureBox32.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox32.Dock = DockStyle.Fill;
+            pictureBox32.Location = new Point(3, 313);
+            pictureBox32.Name = "pictureBox32";
+            pictureBox32.Size = new Size(56, 60);
+            pictureBox32.TabIndex = 34;
+            pictureBox32.TabStop = false;
+            // 
+            // pictureBox31
+            // 
+            pictureBox31.BackColor = Color.Transparent;
+            pictureBox31.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox31.Dock = DockStyle.Fill;
+            pictureBox31.Location = new Point(313, 251);
+            pictureBox31.Name = "pictureBox31";
+            pictureBox31.Size = new Size(60, 56);
+            pictureBox31.TabIndex = 33;
+            pictureBox31.TabStop = false;
+            // 
+            // pictureBox30
+            // 
+            pictureBox30.BackColor = Color.Transparent;
+            pictureBox30.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox30.Dock = DockStyle.Fill;
+            pictureBox30.Location = new Point(251, 251);
+            pictureBox30.Name = "pictureBox30";
+            pictureBox30.Size = new Size(56, 56);
+            pictureBox30.TabIndex = 32;
+            pictureBox30.TabStop = false;
+            // 
+            // pictureBox29
+            // 
+            pictureBox29.BackColor = Color.Transparent;
+            pictureBox29.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox29.Dock = DockStyle.Fill;
+            pictureBox29.Location = new Point(189, 251);
+            pictureBox29.Name = "pictureBox29";
+            pictureBox29.Size = new Size(56, 56);
+            pictureBox29.TabIndex = 31;
+            pictureBox29.TabStop = false;
+            // 
+            // pictureBox28
+            // 
+            pictureBox28.BackColor = Color.Transparent;
+            pictureBox28.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox28.Dock = DockStyle.Fill;
+            pictureBox28.Location = new Point(127, 251);
+            pictureBox28.Name = "pictureBox28";
+            pictureBox28.Size = new Size(56, 56);
+            pictureBox28.TabIndex = 30;
+            pictureBox28.TabStop = false;
+            // 
+            // pictureBox27
+            // 
+            pictureBox27.BackColor = Color.Transparent;
+            pictureBox27.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox27.Dock = DockStyle.Fill;
+            pictureBox27.Location = new Point(65, 251);
+            pictureBox27.Name = "pictureBox27";
+            pictureBox27.Size = new Size(56, 56);
+            pictureBox27.TabIndex = 29;
+            pictureBox27.TabStop = false;
+            // 
+            // pictureBox26
+            // 
+            pictureBox26.BackColor = Color.Transparent;
+            pictureBox26.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox26.Dock = DockStyle.Fill;
+            pictureBox26.Location = new Point(3, 251);
+            pictureBox26.Name = "pictureBox26";
+            pictureBox26.Size = new Size(56, 56);
+            pictureBox26.TabIndex = 28;
+            pictureBox26.TabStop = false;
+            // 
+            // pictureBox25
+            // 
+            pictureBox25.BackColor = Color.Transparent;
+            pictureBox25.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox25.Dock = DockStyle.Fill;
+            pictureBox25.Location = new Point(313, 189);
+            pictureBox25.Name = "pictureBox25";
+            pictureBox25.Size = new Size(60, 56);
+            pictureBox25.TabIndex = 27;
+            pictureBox25.TabStop = false;
+            // 
+            // pictureBox24
+            // 
+            pictureBox24.BackColor = Color.Transparent;
+            pictureBox24.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox24.Dock = DockStyle.Fill;
+            pictureBox24.Location = new Point(251, 189);
+            pictureBox24.Name = "pictureBox24";
+            pictureBox24.Size = new Size(56, 56);
+            pictureBox24.TabIndex = 26;
+            pictureBox24.TabStop = false;
+            // 
+            // pictureBox23
+            // 
+            pictureBox23.BackColor = Color.Transparent;
+            pictureBox23.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox23.Dock = DockStyle.Fill;
+            pictureBox23.Location = new Point(189, 189);
+            pictureBox23.Name = "pictureBox23";
+            pictureBox23.Size = new Size(56, 56);
+            pictureBox23.TabIndex = 25;
+            pictureBox23.TabStop = false;
+            // 
+            // pictureBox22
+            // 
+            pictureBox22.BackColor = Color.Transparent;
+            pictureBox22.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox22.Dock = DockStyle.Fill;
+            pictureBox22.Location = new Point(127, 189);
+            pictureBox22.Name = "pictureBox22";
+            pictureBox22.Size = new Size(56, 56);
+            pictureBox22.TabIndex = 24;
+            pictureBox22.TabStop = false;
+            // 
+            // pictureBox21
+            // 
+            pictureBox21.BackColor = Color.Transparent;
+            pictureBox21.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox21.Dock = DockStyle.Fill;
+            pictureBox21.Location = new Point(65, 189);
+            pictureBox21.Name = "pictureBox21";
+            pictureBox21.Size = new Size(56, 56);
+            pictureBox21.TabIndex = 23;
+            pictureBox21.TabStop = false;
+            // 
+            // pictureBox20
+            // 
+            pictureBox20.BackColor = Color.Transparent;
+            pictureBox20.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox20.Dock = DockStyle.Fill;
+            pictureBox20.Location = new Point(3, 189);
+            pictureBox20.Name = "pictureBox20";
+            pictureBox20.Size = new Size(56, 56);
+            pictureBox20.TabIndex = 22;
+            pictureBox20.TabStop = false;
+            // 
+            // pictureBox19
+            // 
+            pictureBox19.BackColor = Color.Transparent;
+            pictureBox19.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox19.Dock = DockStyle.Fill;
+            pictureBox19.Location = new Point(313, 127);
+            pictureBox19.Name = "pictureBox19";
+            pictureBox19.Size = new Size(60, 56);
+            pictureBox19.TabIndex = 21;
+            pictureBox19.TabStop = false;
+            // 
+            // pictureBox18
+            // 
+            pictureBox18.BackColor = Color.Transparent;
+            pictureBox18.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox18.Dock = DockStyle.Fill;
+            pictureBox18.Location = new Point(251, 127);
+            pictureBox18.Name = "pictureBox18";
+            pictureBox18.Size = new Size(56, 56);
+            pictureBox18.TabIndex = 20;
+            pictureBox18.TabStop = false;
+            // 
+            // pictureBox17
+            // 
+            pictureBox17.BackColor = Color.Transparent;
+            pictureBox17.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox17.Dock = DockStyle.Fill;
+            pictureBox17.Location = new Point(189, 127);
+            pictureBox17.Name = "pictureBox17";
+            pictureBox17.Size = new Size(56, 56);
+            pictureBox17.TabIndex = 19;
+            pictureBox17.TabStop = false;
+            // 
+            // pictureBox16
+            // 
+            pictureBox16.BackColor = Color.Transparent;
+            pictureBox16.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox16.Dock = DockStyle.Fill;
+            pictureBox16.Location = new Point(127, 127);
+            pictureBox16.Name = "pictureBox16";
+            pictureBox16.Size = new Size(56, 56);
+            pictureBox16.TabIndex = 18;
+            pictureBox16.TabStop = false;
+            // 
+            // pictureBox15
+            // 
+            pictureBox15.BackColor = Color.Transparent;
+            pictureBox15.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox15.Dock = DockStyle.Fill;
+            pictureBox15.Location = new Point(65, 127);
+            pictureBox15.Name = "pictureBox15";
+            pictureBox15.Size = new Size(56, 56);
+            pictureBox15.TabIndex = 17;
+            pictureBox15.TabStop = false;
+            // 
+            // pictureBox14
+            // 
+            pictureBox14.BackColor = Color.Transparent;
+            pictureBox14.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox14.Dock = DockStyle.Fill;
+            pictureBox14.Location = new Point(3, 127);
+            pictureBox14.Name = "pictureBox14";
+            pictureBox14.Size = new Size(56, 56);
+            pictureBox14.TabIndex = 16;
+            pictureBox14.TabStop = false;
+            // 
+            // pictureBox13
+            // 
+            pictureBox13.BackColor = Color.Transparent;
+            pictureBox13.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox13.Dock = DockStyle.Fill;
+            pictureBox13.Location = new Point(313, 65);
+            pictureBox13.Name = "pictureBox13";
+            pictureBox13.Size = new Size(60, 56);
+            pictureBox13.TabIndex = 15;
+            pictureBox13.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            pictureBox12.BackColor = Color.Transparent;
+            pictureBox12.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox12.Dock = DockStyle.Fill;
+            pictureBox12.Location = new Point(251, 65);
+            pictureBox12.Name = "pictureBox12";
+            pictureBox12.Size = new Size(56, 56);
+            pictureBox12.TabIndex = 14;
+            pictureBox12.TabStop = false;
+            // 
+            // pictureBox11
+            // 
+            pictureBox11.BackColor = Color.Transparent;
+            pictureBox11.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox11.Dock = DockStyle.Fill;
+            pictureBox11.Location = new Point(189, 65);
+            pictureBox11.Name = "pictureBox11";
+            pictureBox11.Size = new Size(56, 56);
+            pictureBox11.TabIndex = 13;
+            pictureBox11.TabStop = false;
+            // 
+            // pictureBox10
+            // 
+            pictureBox10.BackColor = Color.Transparent;
+            pictureBox10.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox10.Dock = DockStyle.Fill;
+            pictureBox10.Location = new Point(127, 65);
+            pictureBox10.Name = "pictureBox10";
+            pictureBox10.Size = new Size(56, 56);
+            pictureBox10.TabIndex = 12;
+            pictureBox10.TabStop = false;
+            // 
+            // pictureBox9
+            // 
+            pictureBox9.BackColor = Color.Transparent;
+            pictureBox9.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox9.Dock = DockStyle.Fill;
+            pictureBox9.Location = new Point(65, 65);
+            pictureBox9.Name = "pictureBox9";
+            pictureBox9.Size = new Size(56, 56);
+            pictureBox9.TabIndex = 11;
+            pictureBox9.TabStop = false;
+            // 
+            // pictureBox8
+            // 
+            pictureBox8.BackColor = Color.Transparent;
+            pictureBox8.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox8.Dock = DockStyle.Fill;
+            pictureBox8.Location = new Point(3, 65);
+            pictureBox8.Name = "pictureBox8";
+            pictureBox8.Size = new Size(56, 56);
+            pictureBox8.TabIndex = 10;
+            pictureBox8.TabStop = false;
+            // 
+            // pictureBox7
+            // 
+            pictureBox7.BackColor = Color.Transparent;
+            pictureBox7.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox7.Dock = DockStyle.Fill;
+            pictureBox7.Location = new Point(313, 3);
+            pictureBox7.Name = "pictureBox7";
+            pictureBox7.Size = new Size(60, 56);
+            pictureBox7.TabIndex = 9;
+            pictureBox7.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            pictureBox6.BackColor = Color.Transparent;
+            pictureBox6.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox6.Dock = DockStyle.Fill;
+            pictureBox6.Location = new Point(251, 3);
+            pictureBox6.Name = "pictureBox6";
+            pictureBox6.Size = new Size(56, 56);
+            pictureBox6.TabIndex = 8;
+            pictureBox6.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            pictureBox5.BackColor = Color.Transparent;
+            pictureBox5.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox5.Dock = DockStyle.Fill;
+            pictureBox5.Location = new Point(189, 3);
+            pictureBox5.Name = "pictureBox5";
+            pictureBox5.Size = new Size(56, 56);
+            pictureBox5.TabIndex = 7;
+            pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            pictureBox4.BackColor = Color.Transparent;
+            pictureBox4.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox4.Dock = DockStyle.Fill;
+            pictureBox4.Location = new Point(127, 3);
+            pictureBox4.Name = "pictureBox4";
+            pictureBox4.Size = new Size(56, 56);
+            pictureBox4.TabIndex = 6;
+            pictureBox4.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            pictureBox3.BackColor = Color.Transparent;
+            pictureBox3.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox3.Dock = DockStyle.Fill;
+            pictureBox3.Location = new Point(65, 3);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(56, 56);
+            pictureBox3.TabIndex = 5;
+            pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackColor = Color.Transparent;
+            pictureBox2.BackgroundImageLayout = ImageLayout.Zoom;
+            pictureBox2.Dock = DockStyle.Fill;
+            pictureBox2.Location = new Point(3, 3);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(56, 56);
+            pictureBox2.TabIndex = 4;
+            pictureBox2.TabStop = false;
+            // 
+            // btnReset
+            // 
+            btnReset.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnReset.Location = new Point(394, 70);
+            btnReset.Name = "btnReset";
+            btnReset.Size = new Size(121, 53);
+            btnReset.TabIndex = 3;
+            btnReset.Text = "RESET";
+            btnReset.UseVisualStyleBackColor = true;
+            btnReset.Click += btnReset_Click;
             // 
             // MazeForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(521, 655);
-            Controls.Add(label13);
+            ClientSize = new Size(520, 791);
+            Controls.Add(btnReset);
+            Controls.Add(tableLayout);
             Controls.Add(btnSearch);
             Controls.Add(tableLayoutPanel1);
             Name = "MazeForm";
             Text = "Maze Solver";
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();
+            tableLayout.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox37).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox36).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox35).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox34).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox33).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox32).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox31).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox30).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox29).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox28).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox27).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox26).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox25).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox24).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox23).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox22).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox21).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox20).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox19).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox18).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox17).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox16).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox15).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox14).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox13).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox12).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox10).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox9).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
@@ -818,6 +1387,43 @@
         private Label label2;
         private Label label1;
         private Button btnSearch;
-        private Label label13;
+        private TableLayoutPanel tableLayout;
+        private PictureBox pictureBox37;
+        private PictureBox pictureBox36;
+        private PictureBox pictureBox35;
+        private PictureBox pictureBox34;
+        private PictureBox pictureBox33;
+        private PictureBox pictureBox32;
+        private PictureBox pictureBox31;
+        private PictureBox pictureBox30;
+        private PictureBox pictureBox29;
+        private PictureBox pictureBox28;
+        private PictureBox pictureBox27;
+        private PictureBox pictureBox26;
+        private PictureBox pictureBox25;
+        private PictureBox pictureBox24;
+        private PictureBox pictureBox23;
+        private PictureBox pictureBox22;
+        private PictureBox pictureBox21;
+        private PictureBox pictureBox20;
+        private PictureBox pictureBox19;
+        private PictureBox pictureBox18;
+        private PictureBox pictureBox17;
+        private PictureBox pictureBox16;
+        private PictureBox pictureBox15;
+        private PictureBox pictureBox14;
+        private PictureBox pictureBox13;
+        private PictureBox pictureBox12;
+        private PictureBox pictureBox11;
+        private PictureBox pictureBox10;
+        private PictureBox pictureBox9;
+        private PictureBox pictureBox8;
+        private PictureBox pictureBox7;
+        private PictureBox pictureBox6;
+        private PictureBox pictureBox5;
+        private PictureBox pictureBox4;
+        private PictureBox pictureBox3;
+        private PictureBox pictureBox2;
+        private Button btnReset;
     }
 }

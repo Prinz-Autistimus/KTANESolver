@@ -262,4 +262,1003 @@
   <data name="Endpoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resource\Maze\Endpoint.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="m0s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-1</value>
+  </data>
+  <data name="m0s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m0s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze0\m0s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m1s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze1\m1s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m2s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze2\m2s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m3s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze3\m3s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m4s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze4\m4s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m5s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze5\m5s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m6s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze6\m6s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m7s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze7\m7s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s0.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s31.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s32.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s33.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s34.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s35.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="m8s9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\solution\maze8\m8s9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="maze0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maze8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resource\Maze\maze8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
